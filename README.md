@@ -1,4 +1,4 @@
-# Student Comfort Prediction in the Kendeda Building  
+# IEQ Prediction in the Kendeda Building  
 *Post-Occupancy Analysis Using IEQ Sensor Data and Machine Learning*  
 (Reference: Undergraduate Research Symposium Poster)  
 :contentReference[oaicite:0]{index=0}
